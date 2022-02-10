@@ -25,6 +25,6 @@
 <!-- most used languages -->
 <p align="center">
   <a href="https://github.com/NamanAg0502">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanAg0502&hide=html,Shell,Mustache,C,Dockerfile&theme=radical&layout=compact" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanAg0502&hide=html,Shell,Mustache,C,Dockerfile&theme=dark&layout=compact" align="center" />
   </a>
 </p>
