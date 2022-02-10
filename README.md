@@ -6,6 +6,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F75F5F&size=20&center=true&vCenter=true&lines=Full-Stack+Developer;C%2B%2B+%7C+DS+%7C+Algorithm;React.Js+%7C+Node.Js+%7C+MongoDB"></a>
 </p>
 
+
+<h2 align="center">About Me</h2>
+
+
+
+<!-- divider -->
+&nbsp;
+
 <!-- skills showcase -->
 <h2 align="center">Skills</h2>
 <p>
@@ -23,8 +31,9 @@
 &nbsp;
 
 <!-- most used languages -->
+<h2 align='center'>My Stats<h2>
 <p align="center">
-  <a href="https://github.com/NamanAg0502">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanAg0502&hide=html,Shell,Mustache,C,Dockerfile&theme=dark&layout=compact" align="center" />
-  </a>
+<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=NamanAg0502&show_icons=true&line_height=21&theme=react" alt="Naman's Github Stats" />
+<img width="450" height="155" align="center" 
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=NamanAg0502&langs_count=6&hide=handlebars,jupyter notebook&theme=react&line_height=21&layout=compact" />
 </p>
