@@ -3,7 +3,7 @@
 
 <!-- Cool animation mentioning my techstack -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F75F5F&size=20&center=true&vCenter=true&lines=Full-Stack+Developer;C%2B%2B+%7C+DS+%7C+Algorithm;React.Js+%7C+Node.Js+%7C+MongoDB"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F75F5F&size=20&center=true&vCenter=true&lines=Full-Stack+Developer;C%2B%2B+%7C+DS+%7C+Algorithm;Next.Js+%7C+Node.Js+%7C+MongoDB"></a>
 </p>
 
 
