@@ -9,7 +9,7 @@
 
 <h2 align="center">About Me</h2>
 <!-- <p align='center'> -->
-Hello, my name is Naman Agrawal and I am a bachelor's student at [Indian Institute Of Technology (BHU), Varanasi](https://www.iitbhu.ac.in/) . I am a full-stack software developer and currently my curosity is in Blockchain Development. My technology stack involves MERN as Full-Stack, prefer Next.JS in Rront-End, use Tailwindcss for Design(its amazing), Ethereum Tech-Stack (Solidity, Hardhat, Ethers.js) for Blockchian Developement. Besides programming, I have an immense interest in music, I want to travel & visit as many places as i can.
+Hello, my name is Naman Agrawal and I am a bachelor's student at [Indian Institute Of Technology (BHU), Varanasi](https://www.iitbhu.ac.in/) at [Oregon State University](https://eecs.oregonstate.edu/) majoring in Computer Science. I am a full-stack software developer and currently my curosity is in Blockchain Development. My technology stack involves MERN as Full-Stack, prefer Next.JS in Rront-End, use Tailwindcss for Design(its amazing), Ethereum Tech-Stack (Solidity, Hardhat, Ethers.js) for Blockchian Developement. Besides programming, I have an immense interest in music, I want to travel & visit as many places as i can.
 <!-- </p> -->
 
 
