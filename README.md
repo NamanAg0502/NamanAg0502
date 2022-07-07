@@ -48,8 +48,8 @@
 <!-- most used languages -->
 <h2>My Stats<h2>
 <p>
-<img width="500" align="center" height="200" src="https://github-readme-stats-defcon27.vercel.app/api?username=NamanAg0502&show_icons=true&line_height=30&theme=react" alt="Naman's Github Stats" />
-<img width="420" align="center" 
+<img width="400" align="center" height="200" src="https://github-readme-stats-defcon27.vercel.app/api?username=NamanAg0502&show_icons=true&line_height=30&theme=react" alt="Naman's Github Stats" />
+<img width="380" align="center" 
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=NamanAg0502&langs_count=6&hide=handlebars,jupyter notebook&theme=react&line_height=30&layout=compact" />
 </p>
   
