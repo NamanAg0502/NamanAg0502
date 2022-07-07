@@ -6,20 +6,21 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F75F5F&size=20&center=true&vCenter=true&lines=Full-Stack+Developer;C%2B%2B+%7C+DS+%7C+Algorithm;Next.Js+%7C+Node.Js+%7C+MongoDB"></a>
 </p>
 
-
-<h2 align="center">About Me</h2>
-<!-- <p align='center'> -->
-Hello, my name is Naman Agrawal and I am a bachelor's student at Indian Institute Of Technology (BHU), Varanasi. I am a full-stack software developer and currently my curosity is in Blockchain Development. My technology stack involves MERN as Full-Stack, prefer Next.JS in Rront-End, use Tailwindcss for Design(its amazing), Ethereum Tech-Stack (Solidity, Hardhat, Ethers.js) for Blockchian Developement. Besides programming, I have an immense interest in music, I want to travel & visit as many places as i can.
-<!-- </p> -->
-
+## About 😇
+- 👨‍🎓 I am a bachelor's student at Indian Institute Of Technology (BHU), Varanasi.
+- :computer: I'm currently working on MERN Stack
+- :hourglass_flowing_sand:  Exploring Blockchain Development
+- :rocket: Always ready to collaborate for Dev Experiments
+- :dart: I want to travel & visit as many places as i can.
+- :zap: I have an immense interest in music<br>
 
 <!-- divider -->
 &nbsp;
 
 <!-- skills showcase -->
-<h2 align="center">Skills</h2>
+<h2>Technologies and Tools</h2>
 <p>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-c58545?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Javascript-d1a01f?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
@@ -39,3 +40,9 @@ Hello, my name is Naman Agrawal and I am a bachelor's student at Indian Institut
 <img width="300" height="155" align="center" 
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=NamanAg0502&langs_count=6&hide=handlebars,jupyter notebook&theme=react&line_height=21&layout=compact" />
 </p>
+  
+ <h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-namanagrwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namanagrwal/)](https://www.linkedin.com/in/namanagrwal) 
+[![Twitter Badge](https://img.shields.io/badge/-@Naman_Agrwl-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Naman_Agrwl)](https://twitter.com/Naman_Agrwl)
+[![Instagram Badge](https://img.shields.io/badge/-@_nmn_agrwl_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/_nmn_agrwl_)](https://www.instagram.com/_nmn_agrwl_)
