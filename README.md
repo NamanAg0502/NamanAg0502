@@ -25,20 +25,23 @@
 <h2>Technologies and Tools</h2>
 <p>
 <div>
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-sqaure&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-ea2845?style=flat-square&logo=react&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=flat-sqaure" />
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-sqaure&logo=tailwind-css&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-5C2D91?style=flat-square&logo=solidity&logoColor=white" />
+  <img alt="Hardhat" src="https://img.shields.io/badge/-Hardhat-ED8B00?style=flat-square&logo=hardhat&logoColor=white" />
+  <img alt="Hardhat" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-sqaure&logo=Ethereum&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-ea2845?style=flat-square&logo=react&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-YARN-CB3837?style=flat-square&logo=yarn&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="MacOS" src="https://img.shields.io/badge/-Mac%20OS-000000?style=flat-square&logo=apple&logoColor=white" />
+  
 </div>
 </p>
 
