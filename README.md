@@ -40,6 +40,17 @@
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NamanAg0502&show_icons=true&theme=radical&hide_border=true&border_radius=5" alt="Naman's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NamanAg0502&theme=radical&hide_border=true&border_radius=5" alt="Naman's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanAg0502&theme=radical&hide_border=true&border_radius=5&layout=compact" alt="Naman's Top Languages" />
+</div>
+
 ## 🌐 Connect with Me
 
 <p align="center">
